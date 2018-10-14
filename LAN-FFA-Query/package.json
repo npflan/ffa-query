@@ -1,0 +1,18 @@
+{
+  "name": "lan-ffa-query",
+  "version": "0.0.0",
+  "description": "LAN-FFA-Query",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14",
+    "@types/documentdb": "1.10.5"
+  },
+  "dependencies": {
+    "@azure/cosmos": "^2.0.2",
+    "gamedig": "^1.0.46",
+    "debug": "4.1.0"
+  }
+}
